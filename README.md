@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bevelled
-- 👀 I’m interested in ... Learning How to Program
-- 🌱 I’m currently learning ... Html/Css
+- 👀 I’m interested in ... improving my Software Development skills
+- 🌱 I’m currently learning ... Html/Css/Javascript
 - 💞️ I’m looking to collaborate on ... Web Design and Software Design
 
 <!---
